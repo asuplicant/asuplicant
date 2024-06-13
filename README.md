@@ -6,11 +6,6 @@
   <img height="390" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1saTI3amY4c2tyN2t4MXJ0a2tvemlxNTJkcTY5cGlubm1jbm96ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
 </div>
 
-###
-
-<div align="left">
-  <img height="200" src="https://media.tenor.com/p4Wl8O4MhJMAAAAj/silence-cute.gif"  />
-</div>
 
 ###
 
