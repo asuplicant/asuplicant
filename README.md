@@ -1,7 +1,7 @@
 ##𝗼lá, seja bem vindo!
   
 <div align="center">
-  <img height="450" src="https://media1.tenor.com/m/sdrByPTXnFwAAAAC/ghibli-ghiblicore.gif"  />
+  <img height="450" src="https://media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif"  />
 </div>
 
 ###
