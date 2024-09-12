@@ -12,11 +12,6 @@
 <div align="left">
   <img height="200" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
 </div>
-<div> 
-  width: 100px;
-  border: 2px solid white;
-
-</div>
 
 ###
 
