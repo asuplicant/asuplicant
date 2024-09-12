@@ -1,6 +1,8 @@
 # Olá, seja bem vindo!
   
-<img align="left" height="270" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
+<div align="left">
+  <img height="300" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
+</div>
 
 ###
 
