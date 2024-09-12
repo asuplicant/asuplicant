@@ -14,7 +14,7 @@
 </div>
 
 ###
-<!-- Dropdown -->
+
 <details>
   <summary> 
 ⠀𝗦𝗼𝗯𝗿𝗲 𝗺𝗶𝗺: </summary>
