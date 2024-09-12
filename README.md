@@ -4,7 +4,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img height="200" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
 </div>
 
