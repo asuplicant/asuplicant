@@ -1,11 +1,10 @@
 # Olá, seja bem vindo!
   
-<div align="left">
-  <img height="550" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
+<div align="center">
+  <img height="500" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
 </div>
 
 ###
-
 <div align="left">
   <img height="200" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
 </div>
