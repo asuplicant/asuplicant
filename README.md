@@ -4,17 +4,16 @@
 </div>
 
 <div align="center">
-  <img height="450" src="https://media1.tenor.com/m/OoPLaO3aRG4AAAAC/lain.gif"  />
+  <img height="450" src="https://media1.tenor.com/m/BAvBuO9z1ukAAAAC/my-melody.gif"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif"  />
+  <img height="200" src="https://media.tenor.com/wbtcYe_UFDQAAAAi/hello-kitty.gif"  />
 </div>
 
 ###
-
  
 
 <!-- Dropdown -->
