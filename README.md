@@ -1,4 +1,4 @@
-!#𝗼lá, seja bem vindo!
+#𝗼lá, seja bem vindo!
   
 <div align="center">
   <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx6MWlxNmpybTQ0NGc3N2x6eTFleTE3dHN2d2g3eDBrcmo1N2xuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
