@@ -1,8 +1,10 @@
 ##𝗼lá, seja bem vindo!
   
 <div align="center">
-  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx6MWlxNmpybTQ0NGc3N2x6eTFleTE3dHN2d2g3eDBrcmo1N2xuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
+  <img height="450" src="https://media1.tenor.com/m/sdrByPTXnFwAAAAC/ghibli-ghiblicore.gif"  />
 </div>
+
+###
 
 <div align="left">
   <img height="200" src="https://media.tenor.com/GBD2V7kiQQgAAAAi/omori-mari-omori.gif"  />
