@@ -3,9 +3,8 @@
     <summary><h1 style="display: inline-block">Olá, seja bem vindo!</h1></summary>
 </div>
 
-  
 <div align="center">
-  <img height="450" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
+  <img height="450" src="https://media1.tenor.com/m/OoPLaO3aRG4AAAAC/lain.gif"  />
 </div>
 
 ###
