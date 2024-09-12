@@ -5,7 +5,7 @@
 
   
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
+  <img height="450" src="https://media1.tenor.com/m/5QHHcRTEe0EAAAAC/opening-pc.gif"  />
 </div>
 
 ###
