@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> 𝙊𝙡á, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! 👾 </h1></summary>
+    <summary><h1 style="display: inline-block"> 𝙊𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! 👾 </h1></summary>
 </div>
 
 <div align="center">
