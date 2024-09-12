@@ -1,7 +1,7 @@
 # Olá, seja bem vindo!
   
 <div align="center">
-  <img height="550" src="https://media1.tenor.com/m/AtAW1M7pHggAAAAC/lain-experiments.gif"  />
+  <img height="350" src="https://media1.tenor.com/m/qkI7tEzisvoAAAAC/lain.gif"  />
 </div>
 
 ###
