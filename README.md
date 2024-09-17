@@ -20,12 +20,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://open.spotify.com/user/31ynkynhoousdobt7jvgm7ve5zhi?si=0f15b935cf604321?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
 <!-- Dropdown -->
 <details>
   <summary> 
