@@ -19,6 +19,13 @@
 <img align="left" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
 
 ###
+
+<div align="center">
+  <img src="https://open.spotify.com/user/31ynkynhoousdobt7jvgm7ve5zhi?si=0f15b935cf604321?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
 <!-- Dropdown -->
 <details>
   <summary> 
