@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h3 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h3>
+<h2 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
 
 ###
 
@@ -19,7 +19,6 @@
 <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
 
 ###
-
 <!-- Dropdown -->
 <details>
   <summary> 
