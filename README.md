@@ -1,23 +1,22 @@
 <h2 align="center">౨ৎ⋆˚｡⋆  𝙊𝙤𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤!  ⋆౨ৎ⋆˚｡</h2>
 
-
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
+  <img height="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
+<h3 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h3>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="110" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
+<img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
 
 ###
 
