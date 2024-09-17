@@ -1,31 +1,16 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> 𝙊𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! 👾 </h1></summary>
+    <summary><h1 style="display: inline-block"> 𝙊𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! </h1></summary>
 </div>
 
 <div align="center">
-  <img height="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxnaG4weGlzN241cGpmbzgyajR6bmxzbjAwb2hycGRmdzFuNjRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoz1fI1Tx4bnecWnrv/giphy.webp"  />
+  <img height="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://media1.giphy.com/media/uH1EPGpCkk8i5QdlPQ/giphy.webp?cid=790b7611n1fq5yphgzzhr7zkx50vvgxrqcbmf36vkjsscf1f&ep=v1_stickers_search&rid=giphy.webp&ct=s"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
 </div>
 
 ###
