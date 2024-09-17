@@ -2,19 +2,23 @@
   <ul align="center">
     <summary><h1 style="display: inline-block"> 𝙊𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! </h1></summary>
 </div>
-
 <div align="center">
-  <img height="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
 </div>
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
-</div>
+<br clear="both">
+
+<p align="left">Hello World!!</p>
 
 ###
 
+<br clear="both">
+
+<img align="left" height="110" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
+
+###
 <!-- Dropdown -->
 <details>
   <summary> 
