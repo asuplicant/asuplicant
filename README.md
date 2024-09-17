@@ -2,6 +2,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block"> 𝙊𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤! </h1></summary>
 </div>
+    
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVkZjh3M2Z4cXZ4OTlwYW5vOGsybG41bWEwdWpxdnFqcHl5MDN4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XkZhsYx3l8rDO/giphy.webp"  />
 </div>
@@ -10,7 +11,7 @@
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<h2 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
 
 ###
 
