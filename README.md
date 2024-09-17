@@ -4,17 +4,31 @@
 </div>
 
 <div align="center">
-  <img height="450" src="https://media1.tenor.com/m/BAvBuO9z1ukAAAAC/my-melody.gif"  />
+  <img height="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxnaG4weGlzN241cGpmbzgyajR6bmxzbjAwb2hycGRmdzFuNjRkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoz1fI1Tx4bnecWnrv/giphy.webp"  />
 </div>
 
 ###
 
 <div align="left">
-  <img height="200" src="https://media.tenor.com/wbtcYe_UFDQAAAAi/hello-kitty.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/uH1EPGpCkk8i5QdlPQ/giphy.webp?cid=790b7611n1fq5yphgzzhr7zkx50vvgxrqcbmf36vkjsscf1f&ep=v1_stickers_search&rid=giphy.webp&ct=s"  />
 </div>
 
 ###
- 
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
+
+###
 
 <!-- Dropdown -->
 <details>
