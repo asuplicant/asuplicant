@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="3942678560514079460" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/asdf-gif-3942678560514079460">Asdf Sticker</a>from <a href="https://tenor.com/search/asdf-stickers">Asdf Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Image](https://github.com/user-attachments/assets/5787941f-2d0e-4ada-912d-e4fcc0104359)
 
 ###
 
