@@ -16,7 +16,11 @@
 
 <br clear="both">
 
-![Image](https://github.com/user-attachments/assets/5787941f-2d0e-4ada-912d-e4fcc0104359)
+<div align="left">
+  <img height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp2dXEzeDlvZzZtbWM1ejNhYXlzZG05cjR3MzM5ZHZhMGltYnkyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qwKy0o0X9tLBD3jtfl/giphy.gif"  />
+</div>
+
+###
 
 ###
 
