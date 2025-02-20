@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhpc2dpbnI0cTg5eXdqcnNma2N3ZG9jemVqcnkxM3I0aW1nOWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQg7CSQ08n2UK4HxMB/giphy.gif"  />
-</div>
+![Image](https://github.com/user-attachments/assets/2530c085-0649-4e6b-af16-29bccb578b33)
 
 ###
 
