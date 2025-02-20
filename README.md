@@ -2,17 +2,17 @@
 
 ###
 
-![Image](https://github.com/user-attachments/assets/5551aac8-b524-45ec-9703-46ceaa2e07a3)
+<div align="center">
+  <img height="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhpc2dpbnI0cTg5eXdqcnNma2N3ZG9jemVqcnkxM3I0aW1nOWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQg7CSQ08n2UK4HxMB/giphy.gif"  />
+</div>
+
+###
 
 ###
 
 <br clear="both">
 
 <h2 align="left">𝐒𝐚𝐢𝐛𝐚 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
-
-<div align="center">
-  <img height="390" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhpc2dpbnI0cTg5eXdqcnNma2N3ZG9jemVqcnkxM3I0aW1nOWRvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WQg7CSQ08n2UK4HxMB/giphy.gif"  />
-</div>
 
 ###
 
