@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="left" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRvNnV5NzAxZzZpdWEzYmQ2NHZkcDFpMmRicnJteWpxajVheGI4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQqSfBiIkAVGCAIOD/giphy.webp"  />
+<div class="tenor-gif-embed" data-postid="3942678560514079460" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/asdf-gif-3942678560514079460">Asdf Sticker</a>from <a href="https://tenor.com/search/asdf-stickers">Asdf Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
