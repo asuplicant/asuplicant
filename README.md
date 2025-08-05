@@ -1,4 +1,4 @@
-<h2 align="center">⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺  Olá, seja bem vindo!  ⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺</h2>
+<h2 align="center"> Olá, seja bem vindo! </h2>
 
 ###
 
